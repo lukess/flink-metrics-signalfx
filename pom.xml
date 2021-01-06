@@ -32,7 +32,7 @@ under the License.
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<flink.version>1.10.1</flink.version>
+		<flink.version>1.12.0</flink.version>
 		<signalfx.version>1.0.3</signalfx.version>
 		<scala.binary.version>2.12</scala.binary.version>
 	</properties>
